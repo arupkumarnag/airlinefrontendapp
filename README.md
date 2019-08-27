@@ -1,3 +1,8 @@
+Visit URL for DEMO- " https://clever-pare-08a4ca.netlify.com/ "
+This Website has been deployed via Netlify
+
+
+
 # my-project
 
 ## Project setup
