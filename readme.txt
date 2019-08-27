@@ -1,0 +1,1 @@
+DISCLAIMER: All the images and pictures used for this project are not owned my me and these images are strictly not inteneted for any commercial purpose or use. 
